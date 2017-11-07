@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIN\Workspace\AS_MyProject\TSA_WidgetWeather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68b8f5cc3af04089160aa191791c0e99797a3cdd">
+        <dex dex="C:\Users\MAIN\Workspace\AS_MyProject\TSA_WidgetWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e35027414121b41a562fb3c0918450e075d5c4cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MAIN\Workspace\AS_MyProject\TSA_WidgetWeather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\MAIN\Workspace\AS_MyProject\TSA_WidgetWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8bf1d85493e6f0b03da4197f186ba92d6c0401b6\classes.dex" />
+    </item>
+
+</items>
